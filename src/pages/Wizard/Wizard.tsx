@@ -50,7 +50,7 @@ const Wizard: React.FC = () => {
             })}
             <VideoContainer>
                 <YouTubeVideo
-                    source="https://www.youtube.com/embed/udYpsNueZp4"
+                    source="https://www.youtube.com/embed/b3ootXSAaqE"
                     title="What are Overtime Markets and how to participate?  *UPDATED* Overtime Markets video walk through"
                 />
             </VideoContainer>
